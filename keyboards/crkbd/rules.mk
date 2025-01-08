@@ -21,3 +21,6 @@ DEFAULT_FOLDER = crkbd/rev1
 
 RGBLIGHT_SUPPORTED = yes
 RGB_MATRIX_SUPPORTED = yes
+
+# Bootloader selection
+BOOTLOADER = rp2040
